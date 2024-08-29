@@ -36,9 +36,9 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'What is Perper.net',
+      subheading: 'Tether/Circle like project with enhanced capatibility?',
+      message: `What are the trending Stablecoins today?`
     },
     {
       heading: 'What is the price of',
